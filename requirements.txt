@@ -1,0 +1,21 @@
+# Sales ML Forecasting Demo - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data science
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Time series forecasting
+prophet>=1.1.0
+statsmodels>=0.14.0
+
+# Machine learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Utilities
+python-dateutil>=2.8.0
+

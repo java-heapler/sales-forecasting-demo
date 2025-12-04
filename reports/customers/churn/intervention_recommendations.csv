@@ -1,0 +1,143 @@
+customer_no,customer_name,churn_probability,risk_category,revenue_at_risk,total_revenue,recency_days,order_trend,urgency,strategies
+CUST0128,Summit Goods & Industries,0.9809560054086092,Critical,1236651.0266319718,1260659.01,10,-0.23636363636363636,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0175,Pacific Wholesale,0.9816232692617997,Critical,698753.5741016213,711834.77,16,0.03125,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0385,Green Corp,0.706868158637591,Critical,575897.2794029315,814716.6799999999,12,-0.21212121212121213,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0084,Customer_0084,0.652365621225702,High,571085.0269136429,875406.38,10,0.07894736842105263,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0494,Customer_0494,0.9977248604944398,Critical,527715.0867391854,528918.4500000001,36,0.0625,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0134,Customer_0134,0.8377843908499327,Critical,483787.39323239756,577460.5,25,-0.05555555555555555,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0488,Metro Direct & Corp,0.9365558858141237,Critical,478784.8449610094,511218.66000000003,29,-0.047619047619047616,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0080,National Supply,0.9999936243825155,Critical,475565.657955945,475568.69000000006,51,-0.22727272727272727,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0086,Red Water Corp,0.805125546944399,Critical,454374.7923595592,564352.72,21,0.0,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0280,West Trading,0.9700044780785319,Critical,417439.9915344687,430348.5200000001,30,0.0,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0081,National Inc Inc,0.6093106524248109,High,393539.25490076415,645876.21,13,0.5185185185185185,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0380,Modern Associates,0.9999920076287172,Critical,387151.82571413537,387154.92,57,0.21428571428571427,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0097,Central Outlet,0.41703654965492637,Medium,379731.2290454863,910546.6399999999,9,-0.20930232558139536,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0024,Customer_0024,0.7384639521352165,Critical,339070.5901003292,459156.58999999997,16,-0.13793103448275862,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0135,Superior Corp,0.9858775319833778,Critical,301227.57454500906,305542.58999999997,45,0.7,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0152,Modern Store,0.3699390888692257,Medium,298183.0692258379,806032.8799999999,11,-0.1724137931034483,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0220,Central Enterprises,0.5888529800855534,High,281762.24098714953,478493.36,17,0.15,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0434,Customer_0434,0.3996154496341125,Medium,263473.5631141559,659317.76,12,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0491,Prime LLC Corp,0.9901110617929653,Critical,259402.93969895254,261993.78,46,-0.125,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0219,Customer_0219,0.7459552318331738,Critical,257263.5559037136,344878.00999999995,30,-0.07692307692307693,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0329,Customer_0329,0.9793176803140256,Critical,238365.96256114106,243400.04000000004,43,-0.3333333333333333,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0294,Customer_0294,0.9204771970686054,Critical,235484.61357251275,255828.84000000003,56,0.7142857142857143,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0495,Premier Group,0.9465228913348508,Critical,232656.0839084194,245800.8,64,0.0,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0199,Customer_0199,0.983706557706867,Critical,220001.55478869673,223645.51000000004,63,1.2,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0070,Summit Beverage,0.3877019521681379,Medium,218083.87176324957,562503.9299999999,11,0.2916666666666667,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0391,Heritage Services Corp,0.9983278908107254,Critical,208042.84699230507,208391.29999999996,84,-0.4,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0039,Customer_0039,0.9999999157401009,Critical,200421.88311247097,200421.90000000002,123,-0.7692307692307693,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0062,Premier Direct,0.9598525708438757,Critical,186740.69984537803,194551.44,52,-0.6842105263157895,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0332,Global Direct,0.3087920535403786,Medium,185336.34824746387,600197.92,11,0.45,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0259,Customer_0259,0.9956447146891947,Critical,179971.3447246183,180758.60000000003,93,-0.9,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0357,United Depot,0.5816283647722135,High,177521.09646045178,305213.96,28,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0315,Central Wholesale,0.9604421195169394,Critical,174583.80921876236,181774.42,46,0.125,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0004,Customer_0004,0.9999979489029301,Critical,170602.47007705577,170602.81999999998,120,-0.75,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0201,Central Systems LLC,0.4772338188627939,Medium,169785.3373390087,355769.70999999996,22,-0.35,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0184,Customer_0184,0.766735987193369,Critical,169248.55041179684,220739.02000000002,42,0.1111111111111111,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0155,Valley Beverage,0.9984118922984623,Critical,168957.6901873322,169226.44,83,-0.6153846153846154,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0317,National Depot,0.37071783061289915,Medium,165333.64635542576,445982.45,16,-0.2,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0492,Golden Store,0.9742763032077774,Critical,156833.35823059242,160974.21,56,-0.6363636363636364,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0415,Premier Services,0.9934062933881893,Critical,149452.6720506464,150444.66,101,1.5,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0118,Red Store & Industries,0.8398445654615619,Critical,147687.95179860084,175851.53000000003,50,-0.38461538461538464,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0323,Silver Store & Industries,0.9999956952794584,Critical,135163.59815597787,135164.18,140,-0.7142857142857143,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0147,Metro Depot,0.9989319205833235,Critical,134652.4567076755,134796.43,100,0.5,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0244,Customer_0244,0.9981997703053059,Critical,131564.38673785803,131801.66,102,-0.25,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0018,Metro Express & Wholesale,0.5878192066413153,High,126336.46104637008,214924.00999999995,58,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0215,Classic Services,0.9924333810472169,Critical,120419.40522148431,121337.52,96,0.0,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0028,Golden Plus & Group,0.32744382423893764,Medium,117241.76225780272,358051.53,15,-0.17857142857142858,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0289,Customer_0289,0.7648808286220978,Critical,117014.36806094903,152983.79000000004,52,-0.6,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0085,Green Solutions,0.9999363186700101,Critical,110532.50069507636,110539.54000000004,113,-0.3333333333333333,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0312,Golden Depot,0.9931536985580686,Critical,104847.2359567753,105570.0,108,-0.75,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0098,North Market & Supply,0.8418381743895678,Critical,104259.44386374933,123847.37000000001,62,-0.5,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer
+CUST0228,Advanced Center & Beverage,0.999999126695451,Critical,102501.02048531438,102501.11000000002,178,-0.8333333333333334,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0287,Metro Center,0.9073009828239901,Critical,97679.37055412313,107659.28,58,-0.75,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues
+CUST0146,Superior Supply LLC,0.9471485345248287,Critical,89416.20146281992,94405.68,78,-0.3333333333333333,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0409,Customer_0409,0.8256614332404228,Critical,87396.36178787074,105850.12,77,-0.3333333333333333,CRITICAL,🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0052,Advanced Market,0.9738603260058987,Critical,87347.96729028408,89692.50000000001,87,-0.6,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0422,Valley Products,0.9991083402287866,Critical,85353.90543441245,85430.07999999999,163,-0.75,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0420,Coastal Supply,0.9999401289616399,Critical,85231.95676871104,85237.06,161,-0.3333333333333333,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0257,Coastal Direct,0.9998082163348277,Critical,78269.85624070386,78284.87,179,-0.8,MEDIUM,📅 Seasonal buyer - check timing
+CUST0460,Crystal Trading,0.9746083657678881,Critical,77458.21812986012,79476.25,109,0.3333333333333333,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0164,Customer_0164,0.9997296342480205,Critical,74731.77962201169,74751.99,123,-0.5,HIGH,📉 Revenue declining - investigate competitor/product issues | ⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0166,Heritage Company Inc,0.9302057567138204,Critical,72595.2571963235,78042.15000000001,86,-0.8,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0176,Pacific Beverage Corp,0.30130130335627403,Medium,71471.96237935388,237210.93,33,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0182,Summit Products,0.9995226282974815,Critical,69091.93171447942,69124.93,120,-0.6666666666666666,HIGH,⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0116,Blue Group Inc,0.3578385498157459,Medium,65186.76514830429,182168.09,50,0.14285714285714285,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0377,North Market,0.5139626715139369,High,64032.27585339273,124585.46,74,-0.6,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0393,Heritage Warehouse & Systems,0.9995564182316451,Critical,61377.69189256489,61404.93,118,-0.42857142857142855,HIGH,⚠️ Previously active customer gone quiet | 📞 Immediate follow-up call
+CUST0198,Red Outlet & Distribution,0.9367716829116592,Critical,60531.42267328683,64617.049999999996,150,-0.5,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0261,Elite Solutions Corp,0.9999980075632752,Critical,60496.56946417311,60496.689999999995,247,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0213,East Center & Supply,0.4397849212222493,Medium,59916.93975330424,136241.46000000002,74,-0.25,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0450,Elite Wholesale,0.9876808286916722,Critical,59833.68484852492,60579.979999999996,116,-0.8333333333333334,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0187,West Products,0.8771422682388077,Critical,56727.4306852311,64673.01000000001,117,0.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0481,Global Company Inc,0.8226692832253731,Critical,56315.4638087083,68454.56,109,-0.5,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0308,Central Products & Retail,0.5912582618918082,High,54952.1814191475,92941.08,87,0.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0384,Customer_0384,0.9977393897688082,Critical,53088.83491893529,53209.12,182,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0266,Advanced Company Inc,0.34836504534469626,Medium,51452.74382701097,147697.78,32,-0.4375,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0346,Prime Company Corp,0.9999999819654329,Critical,51414.94907275363,51414.95,322,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0301,National Associates Inc,0.7883680368018996,Critical,50261.08761168365,63753.33,100,-0.6666666666666666,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0082,Prime Sales,0.9587855166122449,Critical,50052.63086632895,52204.2,140,0.0,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0475,Golden Systems,0.5493545544716605,High,49977.26140932762,90974.51,52,-0.2222222222222222,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0150,Green Solutions,0.9801120462479125,Critical,48485.66267298156,49469.509999999995,182,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0279,Customer_0279,0.9999648788172557,Critical,47507.081436509296,47508.75,248,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0278,Classic Center & Solutions,0.36108126416211794,Medium,46527.563201939345,128856.21,45,0.2,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0486,First Inc Corp,0.3320330175700055,Medium,46444.761896041484,139879.94999999998,60,-0.25,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0366,Global Services Corp,0.9174535234445672,Critical,45125.03412143815,49185.09,133,-0.6666666666666666,MEDIUM,📅 Seasonal buyer - check timing
+CUST0325,National Retail,0.9966695025955962,Critical,43853.926548872456,44000.47,245,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0314,Customer_0314,0.5663780433853884,High,41552.22886870165,73364.83,84,1.5,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0423,Alpine Center & Systems,0.9146227394487657,Critical,41088.0912205362,44923.53999999999,130,0.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0038,United Plus & Group,0.9905058004727445,Critical,40336.70448462374,40723.340000000004,201,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0342,Red Shop,0.8815123639165459,Critical,38121.9189504295,43246.04,101,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0369,Customer_0369,0.9999948984902797,Critical,37535.958508965916,37536.15,421,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0046,East Industries LLC,0.9933280489580105,Critical,35910.37842814944,36151.58,102,2.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0324,Customer_0324,0.5779587409050336,High,34586.84272785402,59843.100000000006,77,1.5,MEDIUM,📅 Seasonal buyer - check timing
+CUST0008,Premier Goods & Water,0.33896987418969404,Medium,33361.13028305536,98419.15999999999,78,0.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0277,Alpine Store,0.724896013397642,Critical,32474.70349172257,44799.119999999995,102,0.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0426,Blue Enterprises LLC,0.8768972725527256,Critical,27654.682977577133,31536.97,193,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0148,East Foods & Services,0.9751750003269979,Critical,25724.014560875836,26378.870000000003,162,0.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0214,Customer_0214,0.9999927693062665,Critical,25100.93850148891,25101.12,267,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0210,Global Retail,0.9151588766011141,Critical,24897.684274567186,27205.86,147,1.0,MEDIUM,🆕 New customer at risk - onboarding review
+CUST0225,North Trading,0.7973229128238216,Critical,24529.591573650105,30764.940000000002,129,-0.5,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0077,Red Goods,0.7016207107867313,Critical,23551.028766901003,33566.61,157,1.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0143,Valley Market & Partners,0.9961497441811235,Critical,22542.729249854638,22629.86,186,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0019,Customer_0019,0.3246254050650601,Medium,21004.224598908382,64702.96,65,-0.3333333333333333,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0451,Modern Industries LLC,0.71520313019323,Critical,20525.721913885038,28699.15,100,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0379,Customer_0379,0.999470075389975,Critical,19288.862937257913,19299.09,224,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0232,Elite Shop,0.9994402830670569,Critical,18910.05979181271,18920.649999999998,189,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0179,Customer_0179,0.9437127446358164,Critical,18291.82369810944,19382.829999999998,149,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0025,First Company,0.9854319365149099,Critical,16771.371611447572,17019.31,157,0.0,HIGH,📉 Revenue declining - investigate competitor/product issues | 📅 Seasonal buyer - check timing
+CUST0446,Central Inc Inc,0.9789027982461216,Critical,15591.161070169663,15927.18,129,-0.6666666666666666,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0020,Valley Distribution,0.99999788257025,Critical,14979.128282680986,14979.16,402,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0265,Premier Enterprises,0.9565718230868324,Critical,14478.345879822446,15135.66,172,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0240,Pacific Group,0.7321579544780626,Critical,12214.22507558028,16682.5,102,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0075,Central Distribution,0.9996646251046294,Critical,11738.002048101052,11741.94,263,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0185,Blue Supply,0.9872424882935106,Critical,10900.539210243967,11041.4,104,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0157,Summit Express,0.9999985628742104,Critical,10744.304559060636,10744.32,368,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0428,Advanced Sales & Industries,0.9349036749123443,Critical,10593.84229419573,11331.48,159,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0478,Green Direct & Inc,0.5158409524479899,High,10172.460958417229,19720.15,64,0.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0010,East Enterprises,0.9279779826098734,Critical,9481.921270050645,10217.830000000002,141,0.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0200,Alpine Company,0.9996892323406525,Critical,9427.29938949579,9430.23,199,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0453,Premier Express & Company,0.9999061027375695,Critical,9279.378609930329,9280.25,265,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0482,Golden Center,0.6826602813604674,High,7841.971236291792,11487.369999999999,107,0.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0331,Classic Systems LLC,0.9999772286853439,Critical,7389.801720667831,7389.97,437,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0318,South Foods & Solutions,0.999999999994428,Critical,7090.91999996049,7090.92,905,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0145,First Wholesale,1.0,Critical,6783.31,6783.31,724,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0047,Red Warehouse,0.697551360481114,High,6099.131002043482,8743.63,106,-0.5,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0457,Modern Outlet,0.9999814537396228,Critical,5732.233686529788,5732.339999999999,324,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0016,Global Associates Inc,0.999990342238621,Critical,5483.167044369652,5483.22,372,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0358,Elite Foods & Distribution,0.9999939034554886,Critical,5111.678836232455,5111.71,389,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0243,Pacific Center & Group,0.9999999985850867,Critical,4947.77999299932,4947.78,477,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0376,Modern Systems Inc,0.9519313656520451,Critical,4296.313755342749,4513.26,107,1.0,MEDIUM,📅 Seasonal buyer - check timing
+CUST0338,Premier Shop & LLC,0.9985148254810409,Critical,4210.3775537163765,4216.64,200,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0205,Mountain Group,0.9999999872915554,Critical,3150.5999599607744,3150.6,609,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0153,Red Express & Inc,0.38360217993982454,Medium,3105.2404665038825,8094.95,45,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0109,Customer_0109,0.940671224240179,Critical,3032.22547120149,3223.4700000000003,144,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0017,Elite Shop,0.9908602654077953,Critical,2892.1031254669647,2918.78,184,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0416,North Supply Corp,0.9999999999988987,Critical,2357.939999997403,2357.94,954,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0483,Premier Store & Enterprises,0.49477073454755605,Medium,1916.1283099263933,3872.76,66,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0456,Silver Water Inc,1.0,Critical,1073.49,1073.49,302,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0498,Mountain Center & Beverage,0.8364866447873462,Critical,1070.2679322725137,1279.48,158,1.0,MEDIUM,📧 Send engagement email | 📞 Schedule check-in call
+CUST0313,Green Express & Systems,0.9999999999999283,Critical,274.1999999999803,274.2,1051,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0375,Global Water,0.9994457631524338,Critical,159.27167681597186,159.36,220,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0161,North Enterprises Inc,0.9999999992723567,Critical,33.119999975900456,33.12,707,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues
+CUST0302,Blue Direct,0.9999999999905143,Critical,3.8699999999632904,3.87,868,-1.0,HIGH,📉 Revenue declining - investigate competitor/product issues

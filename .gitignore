@@ -1,0 +1,40 @@
+# Environment and credentials - NEVER commit these
+.env
+.env.*
+*.env
+secrets.*
+credentials.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Large model files (if any)
+*.pkl
+*.joblib
+*.h5
+
+# Temporary files
+*.tmp
+*.temp
+

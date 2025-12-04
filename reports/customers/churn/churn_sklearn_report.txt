@@ -1,0 +1,162 @@
+
+================================================================================
+                    CUSTOMER CHURN PREDICTION REPORT
+                    Sklearn Multi-Model Analysis
+                    Generated: 2025-12-03 20:51:13
+================================================================================
+
+📊 DATA SUMMARY
+────────────────────────────────────────────────────────────────────────────────
+Total Customers Analyzed:     489
+Churn Rate (actual):          23.9%
+Total Revenue:                $114,612,284
+Total Revenue at Risk:        $20,348,574
+
+📈 MODEL PERFORMANCE
+────────────────────────────────────────────────────────────────────────────────
+Model                        AUC-ROC         F1  Precision     Recall
+────────────────────────────────────────────────────────────────────────────────
+LogisticRegression             1.000      0.979      0.958      1.000
+RandomForest                   1.000      1.000      1.000      1.000
+GradientBoosting               1.000      1.000      1.000      1.000
+XGBoost                        1.000      1.000      1.000      1.000
+Stacking                       1.000      1.000      1.000      1.000
+────────────────────────────────────────────────────────────────────────────────
+
+🏆 BEST MODEL: LogisticRegression
+   AUC-ROC: 1.000
+   F1 Score: 0.979
+
+🔑 TOP CHURN PREDICTORS
+────────────────────────────────────────────────────────────────────────────────
+    1. recency_gap_ratio         0.3123
+    2. recency                   0.2832
+    3. recent_orders             0.0556
+    4. order_trend               0.0426
+    5. avg_gap                   0.0407
+    6. revenue_trend             0.0351
+    7. orders_per_month          0.0302
+    8. frequency                 0.0275
+    9. median_gap                0.0205
+   10. revenue_per_month         0.0189
+
+📊 RISK DISTRIBUTION
+────────────────────────────────────────────────────────────────────────────────
+Category           Customers      Total Revenue    Revenue at Risk
+────────────────────────────────────────────────────────────────────────────────
+Critical                 111 $      14,223,824 $      13,130,513
+High                      13 $       3,001,574 $       1,819,458
+Medium                    18 $       5,845,547 $       2,197,556
+Low                      347 $      91,541,339 $       3,201,046
+────────────────────────────────────────────────────────────────────────────────
+
+🎯 TOP 15 PRIORITY ACCOUNTS
+────────────────────────────────────────────────────────────────────────────────
+
+#1. S*** (CUST0128)
+    Risk: Critical (98%)
+    Revenue at Risk: $1,236,651
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#2. P*** (CUST0175)
+    Risk: Critical (98%)
+    Revenue at Risk: $698,754
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#3. G*** (CUST0385)
+    Risk: Critical (71%)
+    Revenue at Risk: $575,897
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer...
+
+#4. C*** (CUST0084)
+    Risk: High (65%)
+    Revenue at Risk: $571,085
+    Urgency: MEDIUM
+    Actions: 📧 Send engagement email | 📞 Schedule check-in call...
+
+#5. C*** (CUST0494)
+    Risk: Critical (100%)
+    Revenue at Risk: $527,715
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#6. C*** (CUST0134)
+    Risk: Critical (84%)
+    Revenue at Risk: $483,787
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#7. M*** (CUST0488)
+    Risk: Critical (94%)
+    Revenue at Risk: $478,785
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#8. N*** (CUST0080)
+    Risk: Critical (100%)
+    Revenue at Risk: $475,566
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#9. R*** (CUST0086)
+    Risk: Critical (81%)
+    Revenue at Risk: $454,375
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | 📉 Revenue dec...
+
+#10. W*** (CUST0280)
+    Risk: Critical (97%)
+    Revenue at Risk: $417,440
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#11. N*** (CUST0081)
+    Risk: High (61%)
+    Revenue at Risk: $393,539
+    Urgency: MEDIUM
+    Actions: 📧 Send engagement email | 📞 Schedule check-in call...
+
+#12. M*** (CUST0380)
+    Risk: Critical (100%)
+    Revenue at Risk: $387,152
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+#13. C*** (CUST0097)
+    Risk: Medium (42%)
+    Revenue at Risk: $379,731
+    Urgency: MEDIUM
+    Actions: 📧 Send engagement email | 📞 Schedule check-in call...
+
+#14. C*** (CUST0024)
+    Risk: Critical (74%)
+    Revenue at Risk: $339,071
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer...
+
+#15. S*** (CUST0135)
+    Risk: Critical (99%)
+    Revenue at Risk: $301,228
+    Urgency: CRITICAL
+    Actions: 🔴 Executive outreach required | 💰 Prepare custom retention offer | ⚠️ Previously...
+
+💰 EXECUTIVE SUMMARY
+────────────────────────────────────────────────────────────────────────────────
+• 111 CRITICAL risk customers requiring immediate attention
+• 13 HIGH risk customers for proactive outreach
+• $20,348,574 total revenue at risk
+• Potential savings (25% save rate): $5,087,144
+
+📋 RECOMMENDED ACTIONS
+────────────────────────────────────────────────────────────────────────────────
+1. IMMEDIATE: Contact all CRITICAL customers this week
+2. SHORT-TERM: Systematic outreach to HIGH risk customers
+3. ONGOING: Run this analysis weekly to catch new at-risk accounts
+4. INTEGRATE: Add churn scores to CRM for sales team visibility
+
+================================================================================
+                              END OF REPORT
+================================================================================

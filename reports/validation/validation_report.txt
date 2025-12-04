@@ -1,0 +1,90 @@
+
+================================================================================
+                    MODEL VALIDATION REPORT
+                    Backtesting on Held-Out Test Data
+                    Generated: 2025-12-03 20:51:26
+================================================================================
+
+📊 TEST CONFIGURATION
+────────────────────────────────────────────────────────────────────────────────
+Test Period:          2025-11-05 to 2025-12-04
+Test Days:            30
+Actual Total Sales:   $3,445,874
+Actual Daily Avg:     $114,862
+
+📈 MODEL PERFORMANCE RANKING
+────────────────────────────────────────────────────────────────────────────────
+Rank   Model                              MAE   Total Err%       Predicted
+────────────────────────────────────────────────────────────────────────────────
+🏆1    SARIMAX                   $    27,524       -1.4% $    3,398,365
+  2    Prophet                   $    29,734       -7.7% $    3,181,795
+  3    Sklearn Stacking          $    31,500       -2.5% $    3,360,766
+  4    XGBoost (fixed)           $    34,587       +1.3% $    3,489,620
+❌5    Naive Baseline            $    56,088       -4.2% $    3,302,832
+
+────────────────────────────────────────────────────────────────────────────────
+
+🔍 DETAILED ANALYSIS
+────────────────────────────────────────────────────────────────────────────────
+
+SARIMAX:
+  MAE:              $27,524
+  RMSE:             $42,070
+  MAPE:             73.6%
+  30-Day Total:     $3,398,365
+  Error:            -1.4%
+  Status:           ✅ GOOD
+
+Prophet:
+  MAE:              $29,734
+  RMSE:             $43,780
+  MAPE:             64.4%
+  30-Day Total:     $3,181,795
+  Error:            -7.7%
+  Status:           ✅ GOOD
+
+Sklearn Stacking:
+  MAE:              $31,500
+  RMSE:             $44,664
+  MAPE:             81.4%
+  30-Day Total:     $3,360,766
+  Error:            -2.5%
+  Status:           ✅ GOOD
+
+XGBoost (fixed):
+  MAE:              $34,587
+  RMSE:             $50,095
+  MAPE:             81.8%
+  30-Day Total:     $3,489,620
+  Error:            +1.3%
+  Status:           ✅ GOOD
+
+Naive Baseline:
+  MAE:              $56,088
+  RMSE:             $67,079
+  MAPE:             159.0%
+  30-Day Total:     $3,302,832
+  Error:            -4.2%
+  Status:           ✅ GOOD
+
+🎯 RECOMMENDATIONS
+────────────────────────────────────────────────────────────────────────────────
+
+✅ Models with <15% error (reliable):
+    • Naive Baseline: -4.2% error
+    • Prophet: -7.7% error
+    • SARIMAX: -1.4% error
+    • XGBoost (fixed): +1.3% error
+    • Sklearn Stacking: -2.5% error
+
+📋 SUGGESTED ENSEMBLE WEIGHTS (based on validation)
+────────────────────────────────────────────────────────────────────────────────
+  Naive Baseline      :  12.0% (current: 0%)
+  Prophet             :  22.7% (current: 45%)
+  SARIMAX             :  24.5% (current: 20%)
+  XGBoost (fixed)     :  19.5% (current: 0%)
+  Sklearn Stacking    :  21.4% (current: 25%)
+
+================================================================================
+                              END OF REPORT
+================================================================================
