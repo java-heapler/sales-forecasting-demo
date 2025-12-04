@@ -27,8 +27,9 @@ Plus:
 ### Setup
 
 ```bash
-# Clone or download this repository
-cd sales-ml-demo
+# Clone this repository
+git clone https://github.com/java-heapler/sales-forecasting-demo.git
+cd sales-forecasting-demo
 
 # Create virtual environment (recommended)
 python3 -m venv venv
@@ -70,7 +71,15 @@ sales-ml-demo/
 
 ## Quick Start
 
-### 1. Generate Sample Data (or use included data)
+### Option A: Run Everything at Once
+```bash
+python run_all.py
+```
+This runs all models in sequence and generates all reports.
+
+### Option B: Run Individual Scripts
+
+#### 1. Generate Sample Data (or use included data)
 
 ```bash
 python src/generate_sample_data.py
